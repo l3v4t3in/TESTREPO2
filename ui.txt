@@ -1,4 +1,3 @@
 ui texbox
 ui sprite
 ui loadbar
-ui added timer
